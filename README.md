@@ -1,5 +1,7 @@
 # Radiator
 
+[![Build Status](https://travis-ci.org/podlove/radiator.svg?branch=master)](https://travis-ci.org/podlove/radiator)
+
 To start your Phoenix server:
 
   * Run setup script [`script/setup.sh`][setup]
